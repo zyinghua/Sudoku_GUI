@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 22 20:24:15 AEDT 2021:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@29453f44 引导数据库
+目录 E:\NetbeansProjects\Assignment 2\SudokuGameDB 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579) 实例 a816c00e-017d-46f5-d226-00000704ed18
+已从 file:/E:/NetbeansProjects/db-derby-10.14.2.0-lib/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=E:\NetbeansProjects\Assignment 2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
